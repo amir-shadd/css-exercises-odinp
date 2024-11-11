@@ -1,0 +1,18 @@
+.oddNumEl{
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans" ,sans-serif;
+}
+
+#secEL{
+    color: blue;
+    font-size: 36px;
+}
+
+.forthEl{
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+.font-adjust{
+    font-size: 24px;
+}
